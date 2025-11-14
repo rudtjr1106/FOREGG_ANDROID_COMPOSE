@@ -41,3 +41,15 @@
 
 ## 스크린샷
 
+|홈|캘린더|가계부|
+|:-----:|:-----:|:-----:|
+<img width="240" alt="Screenshot_1763096593" src="https://github.com/user-attachments/assets/166d352c-f59e-440d-ac7d-db9cd0dc1cf0" />|<img width="240" alt="Screenshot_1763096597" src="https://github.com/user-attachments/assets/38cc7a73-2303-43d7-a2ff-5f3ea7bbe462" />|<img width="240" alt="Screenshot_1763096607" src="https://github.com/user-attachments/assets/58a8a9df-f256-46af-a044-94d96353eda5" />
+
+|데일리|챌린지|마이페이지|
+|:-----:|:-----:|:-----:|
+<img width="240" alt="Screenshot_1763096600" src="https://github.com/user-attachments/assets/59378ab0-008d-4490-960a-f3e6eef52e80" />|<img width="240" alt="Screenshot_1763096743" src="https://github.com/user-attachments/assets/48ccc2f0-d96c-4004-b753-3e978b3b75c4" />|<img width="240" alt="Screenshot_1763096608" src="https://github.com/user-attachments/assets/7b584aee-cf52-4576-bd60-473a987f6e4f" />
+
+
+
+
+
